@@ -1,0 +1,22 @@
+#create a function called "even"that takes two numbers and print 
+#all even  numbers between them(unprossecsed).
+class pump():
+//member variable
+even
+range(1,100,2)
+
+    //constructor
+    def even(l):
+    even = []
+    for n in l:
+     if n % 2 == 0:
+      even.append(n)
+    return even
+    def getPumps(l):
+    print([even for even in [number for number in range(1,100,2)] if even % 2 == 0])
+
+even()
+//object = class(*passing values to constructor*)
+ p = Pump(l)
+ p.getPumps()
+
